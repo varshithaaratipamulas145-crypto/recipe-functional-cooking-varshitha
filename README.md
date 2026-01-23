@@ -1,2 +1,3 @@
 # recipe-functional-cooking-varshitha
-i ove cooking
+i love cooking
+i like to eat
